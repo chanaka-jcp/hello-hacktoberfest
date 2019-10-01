@@ -52,6 +52,7 @@ If you go to the project directory and execute the command `git status`, you'll 
 
 Add those changes to the branch you just created using the `git add` command:
 
+example:
 ```
 git add Contributors.md
 ```
